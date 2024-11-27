@@ -2,8 +2,8 @@ body {
   background-color: gray;
 }
 .container img {
-  max-width: 150px;
-  max-height: 100px;
+  max-width: 75px;
+  max-height: 75px;
   width: auto;
   height: auto:
 }

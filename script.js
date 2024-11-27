@@ -6,5 +6,5 @@ function trocar(){
   document.getElementById("corte").src = imgagora;
    let aux = imgagora;
   imgagora = imgdepois;
-  imgpreterito = aux;
+  imgdepois = aux;
 }
